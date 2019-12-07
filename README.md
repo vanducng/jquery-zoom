@@ -36,10 +36,10 @@ A simple jQuery plugin for image zooming; as seen on [Medium](https://medium.com
 
   ```html
   <p align="center">
-	<image src="/media/images/your_image.png" class="img-reponsive" alt="insecured nifi" width="100%" data-action="zoom">
+	<image src="/media/images/your_image.png" class="img-reponsive" alt="img description" width="100%" data-action="zoom">
   </p>
   ```
 
 ### Who
 
-Written by <a href="//twitter.com/fat">@fat</a>, made better by vanducng.
+Written by <a href="//twitter.com/fat">@fat</a>.
